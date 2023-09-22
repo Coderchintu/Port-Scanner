@@ -18,6 +18,3 @@ python3 main.py
 
 ![Port-Scanner](/ps.png "Port-Scanner Image")
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
